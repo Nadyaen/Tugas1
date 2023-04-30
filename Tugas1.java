@@ -1,5 +1,5 @@
-/* nadya mahza khairani
-227064516102 
+/* nadya mahza khairani - fiby naya sari
+227064516102 - 227064516076
 */
 
 package tugas1;
